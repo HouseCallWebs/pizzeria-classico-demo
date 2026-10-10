@@ -1,0 +1,64 @@
+Demo placeholder photos (shown with a DEMO PHOTO badge). All from Wikimedia Commons under the licenses listed.
+
+garbread_1.webp | File:Garlic bread baguettes 1.jpg | Infrogmation | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Garlic_bread_baguettes_1.jpg
+caprese_3.webp | File:Caprese-1.jpg | Rainer Zenz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Caprese-1.jpg
+meatball_3.webp | File:Penne and turkey meatballs - Jan 2022 - Sarah Stierch.jpg | Missvain | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Penne_and_turkey_meatballs_-_Jan_2022_-_Sarah_Stierch.jpg
+skins_0.webp | File:Potato skins arranged on a plate as an appetizer.jpg | don_naked | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Potato_skins_arranged_on_a_plate_as_an_appetizer.jpg
+skins_4.webp | File:Lake Tahoe AleWorX - 2021-10-19 - Sarah Stierch 04.jpg | Missvain | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Lake_Tahoe_AleWorX_-_2021-10-19_-_Sarah_Stierch_04.jpg
+garbread_3.webp | File:Garlic bread - on plate, ready to eat.jpg | Infrogmation of New Orleans | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Garlic_bread_-_on_plate,_ready_to_eat.jpg
+salad_4.webp | File:Salad (4).jpg | Poecus | Public domain | https://commons.wikimedia.org/wiki/File:Salad_(4).jpg
+spinsal_5.webp | File:Spinach (3628941131).jpg | jeffreyw | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Spinach_(3628941131).jpg
+chixsal_5.webp | File:Grilled Chicken Fattoush Salad.jpg | TheCulinaryGeek | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Grilled_Chicken_Fattoush_Salad.jpg
+bbq_4.webp | File:Pieology Hickory BBQ Chicken Pizza (31965598124).jpg | Willis Lam | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Pieology_Hickory_BBQ_Chicken_Pizza_(31965598124).jpg
+pep_5.webp | File:Pepperoni Pizza from Fellini’s Pizza.jpg | BullDawg2021 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Pepperoni_Pizza_from_Fellini%E2%80%99s_Pizza.jpg
+white_3.webp | File:Gabacool Provisions - July 2024 - Sarah Stierch 08.jpg | Missvain | CC0 | https://commons.wikimedia.org/wiki/File:Gabacool_Provisions_-_July_2024_-_Sarah_Stierch_08.jpg
+chix_1.webp | File:Chicken Pizza made in Uganda.jpg | James Moore200 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chicken_Pizza_made_in_Uganda.jpg
+cheese_0.webp | File:Punch Neapolitan Pizza Margherita.jpg | Punch Pizza | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Punch_Neapolitan_Pizza_Margherita.jpg
+white_0.webp | File:Cheese crust pizza with Parmesan garlic white sauce.jpg | jeffreyw | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Cheese_crust_pizza_with_Parmesan_garlic_white_sauce.jpg
+chix_2.webp | File:Indian chicken pizza.jpg | Hiba Umair | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Indian_chicken_pizza.jpg
+cheese_1.webp | File:Four Cheese - Pizza 500 2023-11-10.jpg | Andy Li | CC0 | https://commons.wikimedia.org/wiki/File:Four_Cheese_-_Pizza_500_2023-11-10.jpg
+pep_3.webp | File:All Good pizza (38501728345).jpg | Dale Cruse from San Francisco, CA, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:All_Good_pizza_(38501728345).jpg
+cheese_5.webp | File:Neapolitan pizza in Fort Lauderdale, Florida.jpg | Gatorfan252525 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Neapolitan_pizza_in_Fort_Lauderdale,_Florida.jpg
+chix_5.webp | File:Pizza with roast chicken.jpg | jeffreyw | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Pizza_with_roast_chicken.jpg
+haw_3.webp | File:Hawaiian pizza in Toronto (2024-04-07).jpg | Avelludo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hawaiian_pizza_in_Toronto_(2024-04-07).jpg
+haw_1.webp | File:Pizza with pineapple.jpg | Janine from Mililani, Hawaii, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Pizza_with_pineapple.jpg
+marg_0.webp | File:Margherita Originale.JPG | Mario56 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Margherita_Originale.JPG
+veg_2.webp | File:Vegetable pizza food.jpg | Waran R Samay | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Vegetable_pizza_food.jpg
+veg_1.webp | File:Eq it-na pizza-margherita sep2005 sml.jpg | Valerio Capello at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg
+bbq_3.webp | File:BBQ Chicken Pizza with Pineapple.jpg | Shoshanah | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:BBQ_Chicken_Pizza_with_Pineapple.jpg
+spin_1.webp | File:Spinach and mushroom pizza (3398047194).jpg | Karen and Brad Emerson | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Spinach_and_mushroom_pizza_(3398047194).jpg
+pep_1.webp | File:Pizza Tradición Napolitana.jpg | Rjcastillo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pizza_Tradici%C3%B3n_Napolitana.jpg
+arnold_5.webp | File:Half and half pizza.jpg | jeffreyw | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Half_and_half_pizza.jpg
+white_4.webp | File:White Pizza (No Sauce) - Large 8 slices. Mozzarella, ricotta, grated pecorino Romano cheese, garlic infused oil, oregano, black pepper & basil.jpg | City Foodsters | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:White_Pizza_(No_Sauce)_-_Large_8_slices._Mozzarella,_ricotta,_grated_pecorino_Romano_cheese,_garlic_infused_oil,_oregano,_black_pepper_%26_basil.jpg
+marg_5.webp | File:Eq it-na pizza-margherita sep2005 sml.jpg | Valerio Capello at English Wikipedia | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg
+spin_3.webp | File:Spinach pizza wiki.jpg | Amin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Spinach_pizza_wiki.jpg
+white_5.webp | File:White Pizza (No Sauce) - Large 8 slices. Mozzarella, ricotta, grated pecorino Romano cheese, garlic infused oil, oregano, black pepper & basil - 9345774979.jpg | City Foodsters | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:White_Pizza_(No_Sauce)_-_Large_8_slices._Mozzarella,_ricotta,_grated_pecorino_Romano_cheese,_garlic_infused_oil,_oregano,_black_pepper_%26_basil_-_9345774979.jpg
+bbq_1.webp | File:Pizza BBQ Chicken - L'Osteria Prague 20240913 160708.jpg | VANOCE2022 | CC0 | https://commons.wikimedia.org/wiki/File:Pizza_BBQ_Chicken_-_L%27Osteria_Prague_20240913_160708.jpg
+white_1.webp | File:Roasted garlic white pizza (14130894452).jpg | jeffreyw | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Roasted_garlic_white_pizza_(14130894452).jpg
+cheese_3.webp | File:Punch Neapolitan Pizza (2257029118).jpg | Tony Webster from Portland, Oregon, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Punch_Neapolitan_Pizza_(2257029118).jpg
+spagmb_0.webp | File:Spaghetti and meatballs 1.jpg | jeffreyw | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Spaghetti_and_meatballs_1.jpg
+alfredo_1.webp | File:Fiamma - Fettuccine with Alfredo Sauce.jpg | Calgary Reviews | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fiamma_-_Fettuccine_with_Alfredo_Sauce.jpg
+alfredo_5.webp | File:2020-03-14 21 40 07 Fettuccine Alfredo at the Olive Garden in Fair Lakes, Fairfax County, Virginia.jpg | Famartin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2020-03-14_21_40_07_Fettuccine_Alfredo_at_the_Olive_Garden_in_Fair_Lakes,_Fairfax_County,_Virginia.jpg
+alfredo_0.webp | File:Chicken fettuccine alfredo.JPG | Dllu | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chicken_fettuccine_alfredo.JPG
+spagmb_2.webp | File:Spaghetti with meatballs 3.jpg | *highlimitzz from spider man's neighborhood | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Spaghetti_with_meatballs_3.jpg
+soda_0.webp | File:Glass of Scotch and soda.jpg | DoubleGrazing | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Glass_of_Scotch_and_soda.jpg
+italsoda_0.webp | File:Strawberry Italian soda.jpg | Jeff Nelson from Canada | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Strawberry_Italian_soda.jpg
+tea_1.webp | File:NCI iced tea.jpg | Renee Comet (photographer) | Public domain | https://commons.wikimedia.org/wiki/File:NCI_iced_tea.jpg
+soda_1.webp | File:Nimbu Soda Or Lemon Soda.jpg | Manjeshwari poet mysore | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nimbu_Soda_Or_Lemon_Soda.jpg
+shirley_5.webp | File:Shirley Temple (16426317324).jpg | Marie from Malang, East Java, Indonesia | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Shirley_Temple_(16426317324).jpg
+tea_4.webp | File:Long Island Iced Tea 2008.jpg | Rootology | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Long_Island_Iced_Tea_2008.jpg
+juice_0.webp | File:Apple juice glass.jpg | JeanBono | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Apple_juice_glass.jpg
+water_0.webp | File:Fasting 4-Fasting-a-glass-of-water-on-an-empty-plate.jpg | Dr Jean Fortunet | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Fasting_4-Fasting-a-glass-of-water-on-an-empty-plate.jpg
+coke_1.webp | File:15-09-26-RalfR-WLC-0098 - Coca-Cola glass bottle (Germany).jpg | Ralf Roletschek | Public domain | https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_(Germany).jpg
+water_3.webp | File:Glass of water on vintage sheet.jpg | Zmrob25 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Glass_of_water_on_vintage_sheet.jpg
+shirley_3.webp | File:Shirley temple.jpg | Tybodger | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Shirley_temple.jpg
+beer_4.webp | File:Alliantie van Biertapperijen beer glass.jpg | Mitsjol | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Alliantie_van_Biertapperijen_beer_glass.jpg
+cider_4.webp | File:Hoila-Cider from Zingerle, Bolzano, South Tyrol 0633.jpg | Hubertl | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hoila-Cider_from_Zingerle,_Bolzano,_South_Tyrol_0633.jpg
+seltzer_1.webp | File:Hard seltzer.jpg | Никита Андреев | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hard_seltzer.jpg
+beer_1.webp | File:Beer bottles 2018 G1.jpg | George Chernilevsky | Public domain | https://commons.wikimedia.org/wiki/File:Beer_bottles_2018_G1.jpg
+beer_5.webp | File:Glass of Marmotte Ambrée beer, Saint-Gervais-les-Bains, 2025.jpg | DimiTalen | CC0 | https://commons.wikimedia.org/wiki/File:Glass_of_Marmotte_Ambr%C3%A9e_beer,_Saint-Gervais-les-Bains,_2025.jpg
+meatball_2.webp | File:Mmm... Meatball sub with marinara sauce, mozzarella, and roasted peppers (6432603233).jpg | jeffreyw | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Mmm..._Meatball_sub_with_marinara_sauce,_mozzarella,_and_roasted_peppers_(6432603233).jpg
+rolls_4.webp | File:Cheese Chili Basil rolls (3278949535).jpg | Miia Ranta from Finland | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Cheese_Chili_Basil_rolls_(3278949535).jpg
+focaccia_3.webp | File:Focaccia with Crumb.jpg | Fred Benenson | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Focaccia_with_Crumb.jpg
+garbread_4.webp | File:Garlic Bread Mozzarella - Oregano Pizzeria 2025-05-17.jpg | Andy Li | CC0 | https://commons.wikimedia.org/wiki/File:Garlic_Bread_Mozzarella_-_Oregano_Pizzeria_2025-05-17.jpg
+ranch_3.webp | File:Acme Burger - November 2024 - Sarah Stierch 13.jpg | Missvain | CC0 | https://commons.wikimedia.org/wiki/File:Acme_Burger_-_November_2024_-_Sarah_Stierch_13.jpg
